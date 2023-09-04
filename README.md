@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on upgrading my skills
 - 🌱 I’m currently learning Kubernetes 
 - 👯 I’m looking to collaborate on open-source Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything, will be happy to help
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abdelwahab-adam-750676244/">LinkedIn</a>
 - 🤗 Love to make new connections
